@@ -1,3 +1,3 @@
 # go-architecture
-My golang architecture api with fiber
+My golang architecture api with fiber on mongoDB
 
